@@ -1,5 +1,5 @@
 # Repositorio GitHub de David
-![Imagen de Portada](Imagenes github/letraD.jpg)
+![Imagen de Portada](recursos/letraD.jpg)
 ## CV
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Experiencia académica
